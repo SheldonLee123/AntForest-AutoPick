@@ -1,0 +1,10 @@
+{
+    "name": "Ant Forest autoscript",
+    "main": "main.js",
+    "ignore": [
+        "build"
+    ],
+    "packageName": "com.ant-forest-autoscript",
+    "versionName": "2.1.3",
+    "versionCode": 1
+}
